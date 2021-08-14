@@ -126,7 +126,7 @@ timeperiod = "Jul 2019 - Nov 2020"
 company = "EquipIndustry"
 website = "https://equipindustry.com"
 role = "CoFounder / SRE / CTO"
-description = "Site Reliability Engineer providing infrastructure, solutions design, implementation and applications, security and data analytics support, monitoring project where I implemented automated"
+description = "Site Reliability Engineer providing hugo-theme-uilite, solutions design, implementation and applications, security and data analytics support, monitoring project where I implemented automated"
 
   [[experience.tech]]
   icon = "go"
@@ -298,7 +298,7 @@ description = "Deliver consulting services including solutions design, implement
 timeperiod = "Nov 2017 - Jul 2019"
 company = "Chaty"
 role = "CoFounder / SRE / CTO"
-description = "Site Reliability Engineer providing infrastructure, solutions design, implementation and applications, security and data analytics support, monitoring project where I implemented automated installation using Ansible, Terraform, CloudFormation, Terragrunt and SaltStack."
+description = "Site Reliability Engineer providing hugo-theme-uilite, solutions design, implementation and applications, security and data analytics support, monitoring project where I implemented automated installation using Ansible, Terraform, CloudFormation, Terragrunt and SaltStack."
 
   [[experience.tech]]
   icon = "python"
@@ -392,7 +392,7 @@ description = "Deliver consulting services including solutions design, implement
 timeperiod = "Jun 2017 - Oct 2017"
 company = "La Positiva Seguros"
 role = "Cloud Architect"
-description = "Providing infrastructure, solutions design, implementation and applications, security and data analytics support, monitoring project where I implemented automated installation using Ansible, Terraform, CloudFormation, Terragrunt."
+description = "Providing hugo-theme-uilite, solutions design, implementation and applications, security and data analytics support, monitoring project where I implemented automated installation using Ansible, Terraform, CloudFormation, Terragrunt."
 
   [[experience.tech]]
   icon = "python"
