@@ -1,3 +1,6 @@
+<!-- Space: HUGO-THEME-UILITE -->
+<!-- Title: Troubleshooting -->
+
 # Troubleshooting
 
 ## Environment

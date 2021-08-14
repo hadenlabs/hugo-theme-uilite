@@ -1,3 +1,6 @@
+<!-- Space: HUGO-THEME-UILITE -->
+<!-- Title: Releasing -->
+
 # Releasing
 
 ## Bump a new version

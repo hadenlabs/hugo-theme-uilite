@@ -1,3 +1,6 @@
+<!-- Space: HUGO-THEME-UILITE -->
+<!-- Title: How To Contribute -->
+
 # How To Contribute
 
 Contributions to hugo-theme-uilite are welcome.
@@ -48,15 +51,15 @@ Use [slash convention]() with the same leaders as `commits` e.g.:
 
 ### Code Submission
 
-1.  See if a [Pull Request](https://github.com/hadenlabs/hugo-theme-uilite/pull-requests/) exists
+1.  See if a [Pull Request](https://github.com/hadenlabs/hugo-theme-uilite/pulls/) exists
     - Add some comments or review the code to help it along
     - Don\'t be afraid to comment when logic needs clarification
-2.  Create a Fork and open a [Pull Request](https://github.com/hadenlabs/hugo-theme-uilite/pull-requests/) if needed
+2.  Create a Fork and open a [Pull Request](https://github.com/hadenlabs/hugo-theme-uilite/pulls/) if needed
 
 ### Code Review
 
 - Anyone can review code
-- Any [Pull Request](https://github.com/hadenlabs/hugo-theme-uilite/pull-requests/) should be closed or merged within a week
+- Any [Pull Request](https://github.com/hadenlabs/hugo-theme-uilite/pulls/) should be closed or merged within a week
 
 ### Code Acceptance
 
