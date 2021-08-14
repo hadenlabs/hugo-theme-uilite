@@ -7,38 +7,39 @@
 # Name of this project
 name: hugo-theme-uilite
 
-company:
-  name: hadenlabs
-  description: |-
-    company labs
-  url: https://hadenlabs.com
-  github: https://github.com/hadenlabs
-  email: support@hadenlabs.com
-
-copyright:
-  name: Hadenlabs
-  url: https://hadenlabs.com
-
 email:
   support: support@hadenlabs.com
+
+confluence:
+  space: HUGO-THEME-UILITE
+  title: readme
 
 # Logo for this project
 #logo: docs/logo.png
 
 # License of this project
-license: 'MIT'
+license: 'LGPL-3.0'
 
 # Canonical GitHub repo
 github_repo: hadenlabs/hugo-theme-uilite
 
 # Badges to display
 badges:
-  - name: 'Build Status'
-    image: 'https://travis-ci.org/hadenlabs/hugo-theme-uilite.svg?branch=main'
-    url: 'https://travis-ci.org/hadenlabs/hugo-theme-uilite'
-  - name: 'Latest Release'
-    image: 'https://img.shields.io/github/release/hadenlabs/hugo-theme-uilite.svg'
-    url: 'https://travis-ci.org/hadenlabs/hugo-theme-uilite/releases'
+  - name: Latest Release
+    image: https://img.shields.io/github/release/hadenlabs/hugo-theme-uilite
+    url: https://github.com/hadenlabs/hugo-theme-uilite/releases
+  - name: Lint
+    image: https://img.shields.io/github/workflow/status/hadenlabs/hugo-theme-uilite/lint-code
+    url: https://github.com/hadenlabs/hugo-theme-uilite/actions?workflow=lint-code
+  - name: pre-commit
+    image: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white
+    url: https://github.com/pre-commit/pre-commit
+  - name: Conventional Commits
+    image: https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow
+    url: https://conventionalcommits.org
+  - name: KeepAChangelog
+    image: https://img.shields.io/badge/Keep%20A%20Changelog-1.0.0-%23E05735
+    url: https://keepachangelog.com
 
 # Short description of this project
 description: |-
